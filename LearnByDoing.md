@@ -16,3 +16,7 @@ is a library to manage promise
 
 obs.first().toPromise()		// to convert an observable to a promise
 
+### Coding Style Preferences
+modelSet.byId --> .modelSet
+fetch --> bind & bindSet
+obs.toPromise() --> obs.first().toPromise()
